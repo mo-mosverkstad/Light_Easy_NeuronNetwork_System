@@ -1,0 +1,5 @@
+epochs: 10
+batch_size: 1
+learning_rate: 0.05
+value_range: 2
+value_diff: -1
